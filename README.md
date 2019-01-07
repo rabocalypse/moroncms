@@ -2,7 +2,7 @@
 
 A Single-Button Content Management System. Hands down the easiest CMS in the galaxy!
 
-![Logo](https://rabocalypse.github.io/moroncms/img/ogmoron.jpg){:height="200px"}
+![Moronlogo](https://rabocalypse.github.io/moroncms/img/ogmoron.jpg)
 
 ## Install
 
