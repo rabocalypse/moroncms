@@ -4,6 +4,10 @@ A Single-Button Content Management System. Hands down the easiest CMS in the gal
 
 ![Moronlogo](https://rabocalypse.github.io/moroncms/img/ogmoron.jpg)
 
+## About Moron.CMS
+
+[Why Moron.CMS?](https://rabocalypse.github.io/moroncms)
+
 ## Install
 
 * Copy the files on your Webserver
