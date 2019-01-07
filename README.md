@@ -13,6 +13,7 @@ A Single-Button Content Management System. Hands down the easiest CMS in the gal
 * Copy the files on your Webserver
 * Set the file permissions of moron.mrn to 600
 * Protect the edit-directory via .htaccess, nginx config or via the hosting control panel of your webhoster
+* Include the content fetching code snippet into your website
 * You're done!
 
 ## License
