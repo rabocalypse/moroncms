@@ -1,7 +1,7 @@
 <!--
  * This file is part of Moron.CMS.
  * (c) Rabo Calypse
- * MIT licensed
+ * MIT licensed https://github.com/rabocalypse/moroncms/blob/master/LICENSE
 -->
 <!DOCTYPE html>
 <html lang="de">
