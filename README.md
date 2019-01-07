@@ -2,6 +2,8 @@
 
 A Single-Button Content Management System. Hands down the easiest CMS in the galaxy!
 
+![My image](rabocalypse.github.io/moroncms/img/ogmoron.jpg)
+
 ## Install
 
 * Copy the files on your Webserver
