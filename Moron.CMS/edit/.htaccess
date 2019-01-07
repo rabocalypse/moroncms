@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Access to /onepage/post"
-AuthUserFile /kunden/homepages/6/d28122691/htpasswd
-Require user rabo
