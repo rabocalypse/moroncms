@@ -33,14 +33,14 @@
   <h2>Replace linebreaks with &lt;br&gt;</h2>
   <p>
   <?php
-    echo nl2br( file_get_contents('moron.mrn') );
+    echo nl2br( file_get_contents(__DIR__.'/edit/moron.mrn') );
   ?>
   </p>
   <!--Use this snippet, if you don't want to replace the line breaks into <br> (better, if you want to write HTML)-->
   <h2>Don't replace linebreaks with &lt;br&gt;</h2>
   <p>
   <?php
-    echo file_get_contents('moron.mrn');
+    echo file_get_contents(__DIR__.'/edit/moron.mrn');
   ?>
   </p>
   </body>
